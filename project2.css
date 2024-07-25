@@ -1,0 +1,159 @@
+#pikacho{
+    background-color: rgb(14, 67, 27);
+    height:  300px;
+    width:25%;
+    color:white;
+    margin: 20px;
+    place-items:center;
+    padding:20px;
+    font-size: 18px;
+    float:left ;
+}
+.pikacho1{
+    background-color: rgb(52, 122, 180);
+    height:  300px;
+    width:25%;
+    color:black;
+    margin: 20px;
+    place-items:center;
+    padding:20px;
+    font-size: 18px;
+    float:left; 
+}
+.pikacho1 table{
+    border-collapse: collapse;
+    margin: 50px 50px 50px 50px;    
+}
+    .pikacho1  th, td { 
+        border: 1px solid black;
+        padding: 15px;
+        text-align: left;
+                     }
+tr:hover{
+    background-color: rgb(103, 176, 225);
+}
+.pikacho2 {
+    background-color: rgb(52, 122, 180);
+    height:  300px;
+    width:25%;
+    color:black;
+    margin: 20px;
+    place-items:center;
+    padding:20px;
+    font-size: 18px;
+    float:left;   
+}
+.button1{
+    background-color: green;
+    color: aliceblue;
+    padding: 15px 16px;
+   place-items: center;
+   box-shadow: 13px;
+   box-shadow: outset;
+   border: 2px;
+   border-color: blue;
+   border-radius: 10px;
+   justify-content: center;
+  align-items: center;
+ /* margin:70px 0 100px 80px; */
+ margin: auto;
+  margin-left: 70px;
+}
+.button1:hover{
+    background-color: pink;
+    color: black;
+}
+.button2{
+    background-color: green;
+    color: aliceblue;
+    padding: 15px 16px;
+   place-items: center;
+   box-shadow: 13px;
+   box-shadow: outset;
+   border: 2px;
+   border-color: blue;
+   border-radius: 10px;
+   justify-content: center;
+  align-items: center;
+margin: auto;
+margin-left: 70px;
+  }
+  .button2:hover{
+    background-color: aquamarine;
+    color:black;
+  }
+  .button3{
+    background-color: rgb(81, 85, 200);
+    color: aliceblue;
+    padding: 15px 16px;
+   place-items: center;
+   box-shadow: 13px;
+   box-shadow: outset;
+   border: 2px;
+   border-color: blue;
+   border-radius: 10px;
+   justify-content: center;
+  align-items: center;
+margin: auto;
+margin-left: 70px;
+margin-top: 15px;
+  }
+  .button3:hover{
+    background-color: rgb(156, 56, 161);
+    color:black;
+  }
+  .pikacho3{
+    background-color: rgb(161, 59, 76);
+    height:  300px;
+    width:25%;
+    color:black;
+    margin: 20px;
+    place-items:center;
+    padding:20px;
+    font-size: 18px;
+    float:left; 
+    color: aliceblue;  
+  }
+  .pikacho4{
+    background-color: rgb(45, 172, 49);
+    height:  300px;
+    width:25%;
+    color:black;
+    margin: 20px;
+    place-items:center;
+    padding:20px;
+    font-size: 18px;
+    float:left;   
+  }
+  .antiquewhite{
+    background-color: antiquewhite;
+  }
+  .color{
+    color: blue;
+  }
+  .red{
+    text-align: center;
+  }
+  .pikachopart2{
+    height:200px ;
+   margin: 0%;
+   margin-left: 0%;
+    width: 85%;
+  }
+  .peru{
+    background-color: peru;
+  }
+  .purple{
+    background-color: blueviolet;
+    color: aliceblue;
+  }
+  .yellow{
+    background-color: yellowgreen;
+    color: black;
+  }
+  .cursor{
+    cursor: pointer;
+  }
+  .white{
+    color: wheat;
+  }
